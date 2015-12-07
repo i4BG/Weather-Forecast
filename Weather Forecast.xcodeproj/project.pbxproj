@@ -12,6 +12,7 @@
 		6E4A72A01BF3CE1500180065 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6E4A729E1BF3CE1500180065 /* Main.storyboard */; };
 		6E4A72A21BF3CE1500180065 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6E4A72A11BF3CE1500180065 /* Assets.xcassets */; };
 		6E4A72A51BF3CE1500180065 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6E4A72A31BF3CE1500180065 /* LaunchScreen.storyboard */; };
+		6E4A72AF1BF3CF6C00180065 /* cloud-wallpaper-pictures-wallpapers-nature-weather-clouds-paper--c-p-ibackgroundz.com.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6E4A72AE1BF3CF6C00180065 /* cloud-wallpaper-pictures-wallpapers-nature-weather-clouds-paper--c-p-ibackgroundz.com.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		6E4A72A11BF3CE1500180065 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6E4A72A41BF3CE1500180065 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		6E4A72A61BF3CE1500180065 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6E4A72AE1BF3CF6C00180065 /* cloud-wallpaper-pictures-wallpapers-nature-weather-clouds-paper--c-p-ibackgroundz.com.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "cloud-wallpaper-pictures-wallpapers-nature-weather-clouds-paper--c-p-ibackgroundz.com.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				6E4A729A1BF3CE1400180065 /* AppDelegate.swift */,
 				6E4A729C1BF3CE1500180065 /* ViewController.swift */,
 				6E4A729E1BF3CE1500180065 /* Main.storyboard */,
+				6E4A72AE1BF3CF6C00180065 /* cloud-wallpaper-pictures-wallpapers-nature-weather-clouds-paper--c-p-ibackgroundz.com.jpg */,
 				6E4A72A11BF3CE1500180065 /* Assets.xcassets */,
 				6E4A72A31BF3CE1500180065 /* LaunchScreen.storyboard */,
 				6E4A72A61BF3CE1500180065 /* Info.plist */,
@@ -123,6 +126,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6E4A72AF1BF3CF6C00180065 /* cloud-wallpaper-pictures-wallpapers-nature-weather-clouds-paper--c-p-ibackgroundz.com.jpg in Resources */,
 				6E4A72A51BF3CE1500180065 /* LaunchScreen.storyboard in Resources */,
 				6E4A72A21BF3CE1500180065 /* Assets.xcassets in Resources */,
 				6E4A72A01BF3CE1500180065 /* Main.storyboard in Resources */,
